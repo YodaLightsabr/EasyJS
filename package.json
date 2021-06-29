@@ -1,0 +1,23 @@
+{
+  "name": "easyjavascript",
+  "version": "1.0.7",
+  "description": "The easiest JavaScript webserver",
+  "main": "easyjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "YodaLightsabr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YodaLightsabr/EasyJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YodaLightsabr/EasyJS/issues"
+  },
+  "homepage": "https://github.com/YodaLightsabr/EasyJS#readme"
+}
